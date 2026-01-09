@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Brandify",
   description: "",
   icons: {
-    icon: "/logo.svg",
+    icon: "/logo.ico",
   },
 };
 

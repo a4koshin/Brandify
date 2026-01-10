@@ -62,6 +62,8 @@ const HomePage = () => {
           </div>
         </div>
       </div>
+
+      {/* Next section */}
     </div>
   );
 };
